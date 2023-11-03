@@ -1,0 +1,5 @@
+body{
+    background-color: black;
+    background: url('background.jpg') center/cover no-repeat;
+    width: 100%;
+}
